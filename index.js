@@ -1,4 +1,4 @@
 document.addEventListener("DOMContentLoaded", function() {
-    let id = document.querySelector("#id")
+    let text = document.querySelector("#text")
     id.innerText = "This is really cool!"
 })
